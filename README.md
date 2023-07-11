@@ -5,8 +5,8 @@ Hi Guys, as you know, banners are a bit different on 2.0. Hopefully this guide h
 **Here is the process I would follow when create a new banner.**
 
 -   Select the file you want above, for example if you are creating a "Campaign Banner" click "campaign-banner.html".
--   This will take you to a new page, copy the code and paste it into your text editor. I use "Visual Studio Code", but you can use "Sublime" "Notepad" if you really like living on the edge.
--   Do a "Find & Replace" to change every mention of "unique-name" to something unique to that Banner. This will stop it being overwritten by other styles from banners, and stop it overwriting other banners.
+-   This will take you to a new page, copy the code and paste it into your text editor. I use "Visual Studio Code", but you can use "Sublime" or "Notepad" if you really like living on the edge.
+-   Do a "Find & Replace" to change every mention of "unique-name" to something unique to that Banner. This will stop it being overwritten by other styles from banners, and stop it overwriting other banners. This is going to be different depending on the Operating System you're on as well as your text editor, but if you Google how to do it, it should come up.
 -   Update any colours you need to for text. I will update the "colour" reference below so you should be able to grab any relevant colours from there.
 -   Hopefully you don't need to update the "font-size" at all, but if the banner looks weird feel free to change it.
 -   Copy the code and paste it into the "Content" section of the banner component.
