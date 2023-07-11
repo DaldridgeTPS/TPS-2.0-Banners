@@ -12,36 +12,36 @@ Hi Guys, as you know, banners are a bit different on 2.0. Hopefully this guide h
 
 ## Campaign Banner
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/Campaign.png)
 
 ## Deals of the Week Banner
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/DealsOfTheWeek.png)
 
 ## Flash Center All Customers Banner
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/FlashCenter.png)
 
 ## Flash Center VIPs Banner
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/VIPFlashCenter.png)
 
 ## Flash Left All Customers Banner
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/FlashLeft.png)
 
 ## Flash Left VIPs Banner
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/VIPFlashLeft.png)
 
 ## Staggered VIPs Banner
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/Staggered.png)
 
 ## Supplier Banner
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/Supplier.png)
 
 ## Summer Sale Banner
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/SummerSale.png)
