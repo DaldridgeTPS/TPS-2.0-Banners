@@ -23,36 +23,36 @@ Hi Guys, as you know, banners are a bit different on 2.0. Hopefully this guide h
 
 ## Campaign Banner
 
-![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/Campaign.png)
+![App Screenshot](/screenshots/Campaign.png)
 
 ## Deals of the Week Banner
 
-![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/DealsOfTheWeek.png)
+![App Screenshot](/screenshots/DealsOfTheWeek.png)
 
 ## Flash Center All Customers Banner
 
-![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/FlashCenter.png)
+![App Screenshot](/screenshots/FlashCenter.png)
 
 ## Flash Center VIPs Banner
 
-![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/VIPFlashCenter.png)
+![App Screenshot](/screenshots/VIPFlashCenter.png)
 
 ## Flash Left All Customers Banner
 
-![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/FlashLeft.png)
+![App Screenshot](/screenshots/FlashLeft.png)
 
 ## Flash Left VIPs Banner
 
-![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/VIPFlashLeft.png)
+![App Screenshot](/screenshots/VIPFlashLeft.png)
 
 ## Staggered VIPs Banner
 
-![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/Staggered.png)
+![App Screenshot](/screenshots/Staggered.png)
 
 ## Supplier Banner
 
-![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/Supplier.png)
+![App Screenshot](/screenshots/Supplier.png)
 
 ## Summer Sale Banner
 
-![App Screenshot](https://www.theperfumeshop.com/pws/client/images/website/github-banner-screenshots/SummerSale.png)
+![App Screenshot](/screenshots/SummerSale.png)
