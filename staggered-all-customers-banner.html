@@ -1,0 +1,128 @@
+<style type="text/css">
+	.threshold-container {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		gap: 90px;
+	}
+
+	@media (max-width: 767px) {
+		.threshold-container {
+			grid-template-columns: 1fr;
+			gap: 5px;
+		}
+	}
+
+	.staggered-all-banner.unique-name h2 {
+		font-family: 'DIN Condensed Bold', Arial, Helvetica, sans-serif;
+		font-size: 6rem;
+		text-transform: uppercase;
+		line-height: 100%;
+		margin: 0 0 -10px 0;
+		padding: 0;
+		color: #000000;
+		text-wrap: balance;
+	}
+
+	@media (max-width: 767px) {
+		.staggered-all-banner.unique-name h2 {
+			font-size: 5rem;
+			margin: 0 0 0 0;
+		}
+	}
+
+	.staggered-all-banner.unique-name h3 {
+		font: 32px/120% 'Mark My Words Clean', Arial, Helvetica, sans-serif;
+		text-transform: lowercase;
+		margin: 0 0 15px 0;
+		padding: 0;
+		color: #e00034;
+		text-wrap: balance;
+	}
+
+	@media (max-width: 767px) {
+		.staggered-all-banner.unique-name h3 {
+			margin: 0 0 0 0;
+		}
+	}
+
+	.staggered-all-banner.unique-name p {
+		font-family: 'Muli', Arial, Helvetica, sans-serif;
+		font-size: 14px;
+		text-transform: uppercase;
+		font-weight: bold;
+		margin: 0 0 15px 0;
+		padding: 0;
+		color: #000000;
+		text-wrap: balance;
+	}
+
+	@media (max-width: 767px) {
+		.staggered-all-banner.unique-name p {
+			margin: 10px 0 10px 0;
+		}
+	}
+
+	.staggered-all-banner.unique-name span {
+		font-family: 'Muli', Arial, Helvetica, sans-serif;
+		font-size: 14px;
+		text-transform: uppercase;
+		margin: 0 auto 15px auto;
+		padding: 10px 20px;
+		border-radius: 6px;
+		background: #000000;
+		color: #ffffff;
+		display: block;
+		width: fit-content;
+	}
+
+	@media (max-width: 767px) {
+		.staggered-all-banner.unique-name span {
+			margin: 0 auto 10px auto;
+		}
+	}
+
+	.staggered-all-banner.unique-name p.tcs {
+		font-family: 'Muli', Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		margin: 0;
+		padding: 0;
+		color: #000000;
+	}
+
+	.promo-responsive-banner__wrapper:has(.staggered-all-banner.unique-name) {
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+	@media (max-width: 767px) {
+		.promo-responsive-banner__wrapper:has(.staggered-all-banner.unique-name) {
+			top: 50%;
+			transform: translateY(-50%);
+		}
+	}
+
+	.promo-responsive-banner__content:has(.staggered-all-banner.unique-name) {
+		margin: 0;
+	}
+</style>
+
+<div class="staggered-all-banner unique-name">
+	<div class="threshold-container">
+		<div class="threshold">
+			<h2>10% Off</h2>
+			<h3>£60 Spend</h3>
+		</div>
+		<div class="threshold">
+			<h2>15% Off</h2>
+			<h3>£70 Spend</h3>
+		</div>
+		<div class="threshold">
+			<h2>20% Off</h2>
+			<h3>£80 Spend</h3>
+		</div>
+	</div>
+	<p>Ends 9am 2nd November</p>
+	<span>Shop Now</span>
+	<p class="tcs">T&Cs apply.</p>
+</div>
